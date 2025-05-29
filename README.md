@@ -36,7 +36,20 @@ This map was an experience to do, Jam started when i was traveling with my famil
 
 During vacations i did a small playtest room and thanks to the deadline extension (or else i couldn't have finished it) i started working my way on finishing the map... It's a chumastic Alkaline map with a serious theme/tone.
 
-One thing 
+I've used most of the anti gravity features for the map, the climax room where gravity was high was a suggestion of Shark, i had no idea what i was going to do with it, so it came at the right time to implement.
+
+The original idea for the map was a map in the middle of space, a space station where you would jump from certain parts to another, and the keys would spawn randomly with trigger_random.
+
+The idea was changed so i could do something cool in less time.
+
+It has textures from Quake 1 (mg1.wad) , Quake 2 (q2tex00.wad) and quake 3 (q3a_sm204.wad).
+
+I thank Fabio (bmFbr) for the extension and helping me out on the map, Alkaline is my favorite Quake mod of all time <3.
+
+Enjoy my map, Excelsior!
+
+
+Best vibes and high fives for all of you!
 
 
 ### Special thanks
@@ -45,6 +58,7 @@ A special shoutout to Ribbiks and dannebubinga for making Sunlust (Doom wad) as 
 
 A special tribute mention to my friend Meowgi from the Doom Community for helping me for mapping into doom, leading Pacifist Paradise community and never stopped believing in me.  <3
 
+Thanks to my best friends Yuyi and Alunadrern.
 
 - bmFbr.
 - Paril.
