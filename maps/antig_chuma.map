@@ -24683,7 +24683,7 @@
 // entity 1206
 {
 "classname" "monster_hell_knight"
-"origin" "-320 2272 -152"
+"origin" "-320 2328 -152"
 "angle" "90"
 "spawnflags" "1217"
 "targetname" "ss05"
