@@ -58,7 +58,7 @@ A special shoutout to Ribbiks and dannebubinga for making Sunlust (Doom wad) as 
 
 A special tribute mention to my friend Meowgi from the Doom Community for helping me for mapping into doom, leading Pacifist Paradise community and never stopped believing in me.  <3
 
-Thanks to my best friends Yuyi and Alunadrern.
+Thanks to my best friends Yuyi and Alunadrern for giving out the color values for the FOG and Sky <3.
 
 - bmFbr.
 - Paril.
