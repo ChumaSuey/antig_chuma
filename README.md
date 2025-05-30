@@ -15,13 +15,14 @@ Mod : Alkaline
 bsp filename: antig_chuma.bsp
 
 Songs used: 
+
 Track 27 : Ghost Machines - Blood Instinct.
 
 
 Track 28 : Warning Intruder Alert 0057 - Blood Instinct.
 
 
-Track 29 : Echoes of the desert machines - Blood Instinct.
+Track 29 : Echoes of the Desert Machines - Blood Instinct.
 
 
 Tracks made by the band Blood Instinct (my band, hello):
