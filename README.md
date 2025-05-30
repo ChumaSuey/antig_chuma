@@ -45,7 +45,9 @@ The trigger_random was used in a couple of parts in the map: the weapons in the 
 
 The PU secret thanks to Fabio's help actually is triggered with an action rather than crossing it, this was one of my favorite things in the map.
 
-The idea was changed so i could do something cool in less time.
+I thank Mopey for motivating me to include Difficulty balance, like i usually did : Easy/Normal - Hard/Nightmare are how my maps are usually balanced, one thing to say is that i always map for Nightmare as default, so Hard/NM is recommended.
+
+The idea was changed so i could do something cool and stable in less time, i liked how the map came to be.
 
 It has textures from Quake 1 (mg1.wad) , Quake 2 (q2tex00.wad) and quake 3 (q3a_sm204.wad).
 
