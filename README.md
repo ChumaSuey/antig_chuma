@@ -41,6 +41,10 @@ I've used most of the anti gravity features for the map, the climax room where g
 
 The original idea for the map was a map in the middle of space, a space station where you would jump from certain parts to another, and the keys would spawn randomly with trigger_random.
 
+The trigger_random was used in a couple of parts in the map: the weapons in the beginning and PU secret.
+
+The PU secret thanks to Fabio's help actually is triggered with an action rather than crossing it, this was one of my favorite things in the map.
+
 The idea was changed so i could do something cool in less time.
 
 It has textures from Quake 1 (mg1.wad) , Quake 2 (q2tex00.wad) and quake 3 (q3a_sm204.wad).
@@ -59,7 +63,7 @@ A special shoutout to Ribbiks and dannebubinga for making Sunlust (Doom wad) as 
 
 A special tribute mention to my friend Meowgi from the Doom Community for helping me for mapping into doom, leading Pacifist Paradise community and never stopped believing in me.  <3
 
-Thanks to my best friends Yuyi and Alunadrern for giving out the color values for the FOG and Sky <3.
+Thanks to my best friends Yuyi and Alunadrern for giving out the color values for the Sky and FOG <3.
 
 - bmFbr.
 - Paril.
