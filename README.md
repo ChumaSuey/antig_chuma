@@ -85,6 +85,7 @@ Thanks to my best friends Yuyi and Alunadrern for giving out the color values fo
 - Avix.
 - Dooplon.
 - Mopey Bloke.
+- Tatsu91.
 - Meowgi.
 - rabbit.
 - Makkon.
