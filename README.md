@@ -47,6 +47,8 @@ The PU secret thanks to Fabio's help actually is triggered with an action rather
 
 I thank Mopey for motivating me to include Difficulty balance, like i usually did : Easy/Normal - Hard/Nightmare are how my maps are usually balanced, one thing to say is that i always map for Nightmare as default, so Hard/NM is recommended.
 
+I thank OJ for giving me feedback on how to use func_lasers to delimit some parts that have player clips, it was a very creative idea that helped a lot for the environment of the map.
+
 The idea was changed so i could do something cool and stable in less time, i liked how the map came to be.
 
 It has textures from Quake 1 (mg1.wad) , Quake 2 (q2tex00.wad) and quake 3 (q3a_sm204.wad).
